@@ -1,2 +1,2 @@
-# birl-reinforcement
-An Anki add-on that 'birls' intermittently
+# Anki Addons
+A folder to store Anki add-ons
